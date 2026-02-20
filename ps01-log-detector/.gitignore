@@ -17,7 +17,6 @@ data/*.csv
 
 # --- Visualizations & Documentation ---
 # We ignore generated charts as they are recreated per run
-docs/*.png
 # But we keep the explainer
 !docs/concept_explainer.md
 
