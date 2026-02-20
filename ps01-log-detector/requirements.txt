@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+matplotlib
+pyarrow
+pytest
+tqdm==4.66.0
