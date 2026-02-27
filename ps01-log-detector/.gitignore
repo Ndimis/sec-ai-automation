@@ -18,7 +18,7 @@ data/*.csv
 # --- Visualizations & Documentation ---
 # We ignore generated charts as they are recreated per run
 # But we keep the explainer
-!docs/concept_explainer.md
+
 
 # --- OS & IDE Specific ---
 .DS_Store
