@@ -1,0 +1,26 @@
+# --- Python Artifacts ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# --- Virtual Environments ---
+.venv/
+venv/
+env/
+
+# --- Project Specific Data ---
+# We ignore the synthetic logs to keep the repo lightweight
+data/*.csv
+# If you want to keep a sample for recruiters, uncomment the line below:
+# !data/system_logs_sample.csv
+
+# --- Visualizations & Documentation ---
+# We ignore generated charts as they are recreated per run
+# But we keep the explainer
+
+
+# --- OS & IDE Specific ---
+.DS_Store
+.vscode/
+.idea/
