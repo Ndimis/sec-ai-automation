@@ -18,4 +18,4 @@ This project acts as a **Translation Layer** between technical telemetry and bus
 This is the first step toward **Autonomous SOC Operations**. By automating the documentation phase of Incident Response, we save analysts an average of 10-15 minutes per ticket, allowing them to focus on active threat hunting rather than paperwork.
 
 ### 🎓 Professional Takeaway
-This project demonstrates **Information Synthesis** and **SOC Workflow Automation**. It proves you understand the "Business Side" of security—that effective communication is just as important as technical detection.
+This project demonstrates **Information Synthesis** and **SOC Workflow Automation**. It proves understanding of the "Business Side" of security—that effective communication is just as important as technical detection.
