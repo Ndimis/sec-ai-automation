@@ -13,7 +13,6 @@ This project acts as a **Translation Layer** between technical telemetry and bus
 3. **Structured Reporting**: By following a consistent template, it ensures that every incident report is ready for a "Shift Handover" or an executive briefing.
 
 
-
 ### 🛡️ Why This is "Expert Tier"
 This is the first step toward **Autonomous SOC Operations**. By automating the documentation phase of Incident Response, we save analysts an average of 10-15 minutes per ticket, allowing them to focus on active threat hunting rather than paperwork.
 
