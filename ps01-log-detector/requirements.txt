@@ -3,4 +3,4 @@ scikit-learn
 matplotlib
 pyarrow
 pytest
-tqdm==4.66.0
+tqdm==4.66.3
